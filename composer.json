@@ -1,0 +1,19 @@
+{
+    "name": "mft/moneyhub-php-api-client",
+    "authors": [
+        {
+            "name": "Samy Bounouar",
+            "email": "samy.bounouar@moneyhub.com"
+        }
+    ],
+    "require": {
+        "steverhoades/oauth2-openid-connect-client": "^0.2.0",
+        "gree/jose": "^2.2",
+        "guzzlehttp/guzzle": "~6.0",
+        "firebase/php-jwt": "^5.0",
+        "spomky-labs/jose": "^7.1",
+        "nategood/commando": "^0.4.0",
+        "league/climate": "^3.5",
+        "ext-json": "*"
+    }
+}
