@@ -3,7 +3,6 @@ require_once 'vendor/autoload.php';
 include './config.php';
 include './defaultValue.php';
 include './class/MoneyhubClient.php';
-include './functions.php';
 
 $climate = new League\CLImate\CLImate;
 
