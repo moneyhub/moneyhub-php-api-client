@@ -1,4 +1,8 @@
-# Moneyhub API Client
+# DEPRECATED
+
+This repository is no longer supported, while some basic functionality around payees management exists and works, the full flow for completing a payment is not complete.
+
+## Moneyhub PHP API Client
 
 This is a PHP client for the [Moneyhub API](https://moneyhub.github.io/api-docs). It currently supports the following features:
 
