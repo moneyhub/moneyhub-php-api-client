@@ -1,6 +1,6 @@
 # DEPRECATED
 
-This repository is no longer supported, while some basic functionality around payees management exists and works, the full flow for completing a payment is not complete.
+This repository is no longer supported until further notice, while some basic functionality around payees management exists and works, the full flow for completing a payment is not complete.
 
 ## Moneyhub PHP API Client
 
